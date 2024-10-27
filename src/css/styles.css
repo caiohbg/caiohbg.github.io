@@ -15,11 +15,7 @@ body {
     background: linear-gradient(90deg, #a5b4fc, #93c5fd);
 }
 
-.header {
-    padding: 60px;
-    text-align: left;
-    font-size: 30px;
-}
+
 
 .kanban {
     display: flex;
